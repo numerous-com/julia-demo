@@ -1,0 +1,9 @@
+name = "Julia Demo"
+description = "A demo showcasing a Julia app"
+cover_image = "app_cover.jpg"
+exclude = ["*venv", "venv*", ".git", ".env"]
+port = 8080
+
+[docker]
+  dockerfile = "Dockerfile"
+  context = "."
