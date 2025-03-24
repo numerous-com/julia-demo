@@ -1,6 +1,6 @@
 name = "Julia Demo"
 description = "A demo showcasing a Julia app"
-cover_image = "app_cover.jpg"
+cover_image = "app_cover.png"
 exclude = ["*venv", "venv*", ".git", ".env"]
 port = 8080
 
